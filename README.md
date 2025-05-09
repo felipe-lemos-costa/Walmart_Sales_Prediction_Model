@@ -17,7 +17,7 @@ This project involves implementing a weekly sales forecasting model for Walmart,
 4. Here, I generate a correlation matrix of the dataset’s features to analyze the relationships between variables before applying machine learning
 ![4_correlation_matrix](images/4_correlation_matrix.jpg)
 
-5. Here, I calculate the WMAE, which stands for Weighted Mean Absolute Error. It’s an evaluation metric used to measure the accuracy of predictions while assigning more weight to certain errors — in this case, likely the errors during holidays or peak periods. I tested three different models and compared their WMAE values. The third model achieved the best performance, as it had the lowest WMAE, indicating more accurate and reliable predictions.
+5. Here, I calculate the WMAE, which stands for Weighted Mean Absolute Error. It’s an evaluation metric used to measure the accuracy of predictions while assigning more weight to certain errors — in this case, likely the errors during holidays or peak periods. I tested three different models and compared their WMAE values. The third model achieved the best performance, as it had the lowest WMAE.
 ![5_WMAE](images/5_WMAE.jpg)
 
 # Technologies Used
