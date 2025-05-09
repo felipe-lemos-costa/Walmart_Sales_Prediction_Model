@@ -8,7 +8,7 @@ This project involves implementing a weekly sales forecasting model for Walmart,
 1. In the graph below, I present the weekly sales average during holidays, broken down by store type. Type A has the highest sales average, followed by Type B, and then Type C. Thanksgiving stands out as the holiday with the highest sales average across all store types.
 ![1_weekly_average_sales_on_holidays_by_store_type](images/1_weekly_average_sales_on_holidays_by_store_type.jpg)
 
-2. In this graph, we can observe that Store Type A, with the largest physical space, leads in sales volume, followed by Store Type B and, lastly, Store Type C. This larger space could be one of the factors contributing to the higher sales volume in Store Type A, followed by Store Type B and, finally, Store Type C.
+2. In this graph, we can observe that Store Type A, with the largest physical space, leads in sales volume, followed by Store Type B and, lastly, Store Type C. This larger space could be one of the factors contributing to the higher sales volume in Store Type A.
 ![2_size_of_stores_by_type](images/2_size_of_stores_by_type.jpg)
 
 3. In the graph below, we can see the average weekly sales for each year. A similar pattern is observed across the three years analyzed, indicating the presence of seasonality in sales.
