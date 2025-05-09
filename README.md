@@ -1,12 +1,12 @@
 # Walmart Sales Prediction Model
-![Walmart_logo](images/0_walmart_logo.jpg)
+![0_walmart_logo](images/0_walmart_logo.jpg)
 
 # Summary
 This project involves implementing a weekly sales forecasting model for Walmart, focusing on the impact of major U.S. national holidays. The goal is to predict sales fluctuations during these periods by incorporating historical sales data and holiday effects. Machine learning and statistical techniques will be used to enhance forecasting accuracy.
 
 # Key Insights
 1. In the graph below, I present the weekly sales average during holidays, broken down by store type. Type A has the highest sales average, followed by Type B, and then Type C. Thanksgiving stands out as the holiday with the highest sales average across all store types.
-![2_size_of_stores_by_type](images/1_weekly_average_sales_on_holidays_by_store_type.jpg)
+![1_weekly_average_sales_on_holidays_by_store_type](images/1_weekly_average_sales_on_holidays_by_store_type.jpg)
 
 3. In this graph, we can observe that Store Type A, with the largest physical space, leads in sales volume, followed by Store Type B and, lastly, Store Type C. This larger space could be one of the factors contributing to the higher sales volume in Store Type A.
 ![2_size_of_stores_by_type](images/2_size_of_stores_by_type.jpg)
