@@ -1,6 +1,5 @@
 # Walmart Sales Prediction Model
 ![0_walmart_logo](images/0_walmart_logo.jpg)
-<img src="images/0_walmart_logo.jpg" width="800" height="600"/>
 
 # Summary
 This project involves implementing a weekly sales forecasting model for Walmart, focusing on the impact of major U.S. national holidays. The goal is to predict sales fluctuations during these periods by incorporating historical sales data and holiday effects. Machine learning and statistical techniques will be used to enhance forecasting accuracy.
