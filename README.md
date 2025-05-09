@@ -11,6 +11,9 @@ This project involves implementing a weekly sales forecasting model for Walmart,
 2. In this graph, we can observe that Store Type A, with the largest physical space, leads in sales volume, followed by Store Type B and, lastly, Store Type C. This larger space could be one of the factors contributing to the higher sales volume in Store Type A, followed by Store Type B and, finally, Store Type C.
 ![2_size_of_stores_by_type](images/2_size_of_stores_by_type.jpg)
 
+3. In the graph below, we can see the average weekly sales for each year. A similar pattern is observed across the three years analyzed, indicating the presence of seasonality in sales.
+![3_weekly_sales_by_year](images/3_weekly_sales_by_year.jpg)
+
 
 # Technologies Used
 - Python
