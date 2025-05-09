@@ -24,7 +24,7 @@ This project involves implementing a weekly sales forecasting model for Walmart,
 ![4_correlation_matrix](images/6_average_sales_monthly.jpg)
 
 7. In this final graph, I show the results after implementing Exponential Smoothing, which ultimately gave me a WMAE of 841. It's important to note that before applying this model, the WMAE was 2713, indicating that Exponential Smoothing was effective in capturing both the trends and seasonal patterns in the data. This significant improvement suggests that the model was able to better adjust for fluctuations and variations, resulting in much more accurate and reliable forecasts:
-![4_correlation_matrix](images/4_correlation_matrix.jpg)
+![4_correlation_matrix](images/7_prediction_using_exponential_smoothing.jpg)
 
 # Technologies Used
 - Python
