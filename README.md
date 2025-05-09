@@ -14,7 +14,6 @@ This project involves implementing a weekly sales forecasting model for Walmart,
 3. In the graph below, we can see the average weekly sales for each year. A similar pattern is observed across the three years analyzed, indicating the presence of seasonality in sales.
 ![3_weekly_sales_by_year](images/3_weekly_sales_by_year.jpg)
 
-
 # Technologies Used
 - Python
 - Pandas
