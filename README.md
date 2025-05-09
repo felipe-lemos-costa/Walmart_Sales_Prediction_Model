@@ -1,14 +1,14 @@
 # Walmart Sales Prediction Model
-![Walmart Logo](images/0_walmart_logo.jpg)
+![Walmart_logo](images/0_walmart_logo.jpg)
 
 # Summary
-This project performs an exploratory data analysis (EDA) on Amazon sales data, focusing on product reviews and their impact on sales performance. The analysis includes visualizations and statistical insights related to product categories, pricing, and customer ratings.
+This project involves implementing a weekly sales forecasting model for Walmart, focusing on the impact of major U.S. national holidays. The goal is to predict sales fluctuations during these periods by incorporating historical sales data and holiday effects. Machine learning and statistical techniques will be used to enhance forecasting accuracy.
 
 # Key Insights
-1. The "Rating Histogram" graph shows that most of the reviews are between 4.0 and 4.5:
-![Rating Histogram](images/1_rating_histogram.jpg)
+1. In the graph below, I present the weekly sales average during holidays, broken down by store type. Type A has the highest sales average, followed by Type B, and then Type C. Thanksgiving stands out as the holiday with the highest sales average across all store types.
+![Weekly_average_sales_on_holidays_by_store_type](images/1_weekly_average_sales_on_holidays_by_store_type.jpg)
 
-2. I created a column to categorize the rating numbers into rating descriptions in a particular way:
+3. I created a column to categorize the rating numbers into rating descriptions in a particular way:
 * 1 to 2 -> 'Terrible'
 * 2 to 3 -> 'Poor'
 * 3 to 4 -> 'Average'
