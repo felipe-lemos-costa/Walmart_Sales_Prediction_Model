@@ -33,6 +33,8 @@ This project involves implementing a weekly sales forecasting model for Walmart,
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Scikit-learn
+- Statsmodels
 
 # How to Run
 
@@ -48,7 +50,7 @@ This project involves implementing a weekly sales forecasting model for Walmart,
 
 3. Open and run the Jupyter Notebook:
    ```bash
-   jupyter notebook Amazon-Sales-EDA-Analysis.ipynb
+   jupyter notebook Walmart_Sales_Prediction_Model.ipynb
    ```
 
 # License
