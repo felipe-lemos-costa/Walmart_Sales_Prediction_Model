@@ -18,7 +18,7 @@ This project involves implementing a weekly sales forecasting model for Walmart,
 ![4_correlation_matrix](images/4_correlation_matrix.jpg)
 
 5. Here, I calculate the WMAE, which stands for Weighted Mean Absolute Error. It’s an evaluation metric used to measure the accuracy of predictions while assigning more weight to certain errors — in this case, likely the errors during holidays or peak periods. I tested three different models and compared their WMAE values. The third model achieved the best performance, as it had the lowest WMAE:
-![5_WMAE](https://github.com/felipe-lemos-costa/Walmart_Sales_Prediction_Model/blob/main/images/5_WMAE.jpg?raw=true)
+![WMAE_5](images/WMAE_5.jpg)
 
 7. In this graph, I can more clearly observe the seasonality captured by my model:
 ![6_average_sales_monthly](images/6_average_sales_monthly.jpg)
