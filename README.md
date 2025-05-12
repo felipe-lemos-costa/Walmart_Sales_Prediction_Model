@@ -40,7 +40,7 @@ This project involves implementing a weekly sales forecasting model for Walmart,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/felipe-lemos-costa/Amazon-Sales-EDA-Analysis.git
+   git clone https://github.com/felipe-lemos-costa/Walmart_Sales_Prediction_Model.git
    ```
 
 2. Install dependencies:
